@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "THIS IS THE HOUSE THAT JACK BUILT/1.0.0": {
+        "runtime": {
+          "THIS IS THE HOUSE THAT JACK BUILT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THIS IS THE HOUSE THAT JACK BUILT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

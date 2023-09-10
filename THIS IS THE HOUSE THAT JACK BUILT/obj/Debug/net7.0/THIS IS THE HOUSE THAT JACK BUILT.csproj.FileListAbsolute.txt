@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.AssemblyInfo.cs
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\bin\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.exe
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\bin\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.deps.json
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\bin\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.runtimeconfig.json
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\bin\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.dll
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\bin\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.pdb
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.dll
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\refint\THIS IS THE HOUSE THAT JACK BUILT.dll
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.pdb
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\THIS IS THE HOUSE THAT JACK BUILT.genruntimeconfig.cache
+C:\Users\1\source\repos\THIS IS THE HOUSE THAT JACK BUILT\obj\Debug\net7.0\ref\THIS IS THE HOUSE THAT JACK BUILT.dll
